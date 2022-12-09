@@ -44,4 +44,4 @@ int GetSumNumber(int number)
 }
 
 int DigSum =  GetSumNumber(multiDigitNumber);
-Console.WriteLine($"Разрядность введённого числа {multiDigitNumber} равна {DigSum}");
+Console.WriteLine($"Сумма цифр введённого числа {multiDigitNumber} равна {DigSum}");
